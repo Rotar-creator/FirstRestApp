@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class FirstRestAppApplication {
+// not runn
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstRestAppApplication.class, args);
